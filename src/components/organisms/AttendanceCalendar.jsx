@@ -2,8 +2,9 @@ import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { addDays, addMonths, endOfMonth, endOfWeek, format, isSameDay, isSameMonth, startOfMonth, startOfWeek, subMonths } from "date-fns";
 import ApperIcon from "@/components/ApperIcon";
-import Button from "@/components/atoms/Button";
+import Attendance from "@/components/pages/Attendance";
 import Badge from "@/components/atoms/Badge";
+import Button from "@/components/atoms/Button";
 import { cn } from "@/utils/cn";
 
 const AttendanceCalendar = ({ 
@@ -59,7 +60,7 @@ const AttendanceCalendar = ({
     return "bg-error-100 border-error-200";
   };
 
-  while (day <= endDate) {
+while (day <= endDate) {
     for (let i = 0; i < 7; i++) {
       formattedDate = format(day, dateFormat);
       const cloneDay = day;
@@ -70,7 +71,7 @@ const AttendanceCalendar = ({
 
       days.push(
         <motion.div
-          key={day}
+          key={day.toISOString()}
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           className={cn(
@@ -120,7 +121,7 @@ const AttendanceCalendar = ({
       day = addDays(day, 1);
     }
     rows.push(
-      <div key={day} className="grid grid-cols-7 gap-1">
+      <div key={format(day, "yyyy-MM-dd")} className="grid grid-cols-7 gap-1">
         {days}
       </div>
     );
@@ -178,10 +179,10 @@ const AttendanceCalendar = ({
         <div className="flex items-center space-x-2">
           <div className="w-4 h-4 bg-warning-100 border border-warning-200 rounded" />
           <span className="text-gray-600">Medium Attendance (70-89%)</span>
-        </div>
+</div>
         <div className="flex items-center space-x-2">
           <div className="w-4 h-4 bg-error-100 border border-error-200 rounded" />
-          <span className="text-gray-600">Low Attendance (<70%)</span>
+          <span className="text-gray-600">Low Attendance (&lt;70%)</span>
         </div>
       </div>
     </div>
