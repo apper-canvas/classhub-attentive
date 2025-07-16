@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "studentId": 1,
+    "subject": "Mathematics",
+    "assignmentName": "Algebra Quiz 1",
+    "score": 85,
+    "maxScore": 100,
+    "date": "2024-01-10T00:00:00.000Z",
+    "category": "quiz"
+  },
+  {
+    "Id": 2,
+    "studentId": 1,
+    "subject": "English",
+    "assignmentName": "Essay on Shakespeare",
+    "score": 92,
+    "maxScore": 100,
+    "date": "2024-01-12T00:00:00.000Z",
+    "category": "assignment"
+  },
+  {
+    "Id": 3,
+    "studentId": 2,
+    "subject": "Mathematics",
+    "assignmentName": "Algebra Quiz 1",
+    "score": 78,
+    "maxScore": 100,
+    "date": "2024-01-10T00:00:00.000Z",
+    "category": "quiz"
+  },
+  {
+    "Id": 4,
+    "studentId": 2,
+    "subject": "Science",
+    "assignmentName": "Chemistry Lab Report",
+    "score": 88,
+    "maxScore": 100,
+    "date": "2024-01-11T00:00:00.000Z",
+    "category": "assignment"
+  },
+  {
+    "Id": 5,
+    "studentId": 3,
+    "subject": "Mathematics",
+    "assignmentName": "Algebra Quiz 1",
+    "score": 95,
+    "maxScore": 100,
+    "date": "2024-01-10T00:00:00.000Z",
+    "category": "quiz"
+  },
+  {
+    "Id": 6,
+    "studentId": 3,
+    "subject": "History",
+    "assignmentName": "World War II Essay",
+    "score": 87,
+    "maxScore": 100,
+    "date": "2024-01-13T00:00:00.000Z",
+    "category": "assignment"
+  },
+  {
+    "Id": 7,
+    "studentId": 4,
+    "subject": "Mathematics",
+    "assignmentName": "Algebra Quiz 1",
+    "score": 72,
+    "maxScore": 100,
+    "date": "2024-01-10T00:00:00.000Z",
+    "category": "quiz"
+  },
+  {
+    "Id": 8,
+    "studentId": 4,
+    "subject": "Science",
+    "assignmentName": "Physics Problem Set",
+    "score": 90,
+    "maxScore": 100,
+    "date": "2024-01-14T00:00:00.000Z",
+    "category": "homework"
+  },
+  {
+    "Id": 9,
+    "studentId": 5,
+    "subject": "English",
+    "assignmentName": "Poetry Analysis",
+    "score": 91,
+    "maxScore": 100,
+    "date": "2024-01-11T00:00:00.000Z",
+    "category": "assignment"
+  },
+  {
+    "Id": 10,
+    "studentId": 5,
+    "subject": "Mathematics",
+    "assignmentName": "Algebra Quiz 1",
+    "score": 83,
+    "maxScore": 100,
+    "date": "2024-01-10T00:00:00.000Z",
+    "category": "quiz"
+  },
+  {
+    "Id": 11,
+    "studentId": 7,
+    "subject": "Mathematics",
+    "assignmentName": "Calculus Exam",
+    "score": 94,
+    "maxScore": 100,
+    "date": "2024-01-15T00:00:00.000Z",
+    "category": "exam"
+  },
+  {
+    "Id": 12,
+    "studentId": 7,
+    "subject": "English",
+    "assignmentName": "Literature Review",
+    "score": 89,
+    "maxScore": 100,
+    "date": "2024-01-12T00:00:00.000Z",
+    "category": "assignment"
+  },
+  {
+    "Id": 13,
+    "studentId": 8,
+    "subject": "Science",
+    "assignmentName": "Biology Lab",
+    "score": 86,
+    "maxScore": 100,
+    "date": "2024-01-13T00:00:00.000Z",
+    "category": "assignment"
+  },
+  {
+    "Id": 14,
+    "studentId": 8,
+    "subject": "Mathematics",
+    "assignmentName": "Algebra Quiz 1",
+    "score": 79,
+    "maxScore": 100,
+    "date": "2024-01-10T00:00:00.000Z",
+    "category": "quiz"
+  },
+  {
+    "Id": 15,
+    "studentId": 10,
+    "subject": "History",
+    "assignmentName": "Final Project",
+    "score": 93,
+    "maxScore": 100,
+    "date": "2024-01-16T00:00:00.000Z",
+    "category": "project"
+  },
+  {
+    "Id": 16,
+    "studentId": 10,
+    "subject": "Mathematics",
+    "assignmentName": "Calculus Exam",
+    "score": 88,
+    "maxScore": 100,
+    "date": "2024-01-15T00:00:00.000Z",
+    "category": "exam"
+  },
+  {
+    "Id": 17,
+    "studentId": 1,
+    "subject": "Science",
+    "assignmentName": "Physics Quiz",
+    "score": 89,
+    "maxScore": 100,
+    "date": "2024-01-16T00:00:00.000Z",
+    "category": "quiz"
+  },
+  {
+    "Id": 18,
+    "studentId": 2,
+    "subject": "English",
+    "assignmentName": "Creative Writing",
+    "score": 85,
+    "maxScore": 100,
+    "date": "2024-01-17T00:00:00.000Z",
+    "category": "assignment"
+  },
+  {
+    "Id": 19,
+    "studentId": 3,
+    "subject": "Science",
+    "assignmentName": "Chemistry Test",
+    "score": 91,
+    "maxScore": 100,
+    "date": "2024-01-17T00:00:00.000Z",
+    "category": "exam"
+  },
+  {
+    "Id": 20,
+    "studentId": 4,
+    "subject": "English",
+    "assignmentName": "Grammar Exercise",
+    "score": 76,
+    "maxScore": 100,
+    "date": "2024-01-17T00:00:00.000Z",
+    "category": "homework"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "email": "emily.johnson@email.com",
+    "phone": "+1 (555) 123-4567",
+    "gradeLevel": "Grade 10",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "Id": 2,
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "email": "michael.chen@email.com",
+    "phone": "+1 (555) 234-5678",
+    "gradeLevel": "Grade 11",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "Id": 3,
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "email": "sarah.williams@email.com",
+    "phone": "+1 (555) 345-6789",
+    "gradeLevel": "Grade 10",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "Id": 4,
+    "firstName": "David",
+    "lastName": "Brown",
+    "email": "david.brown@email.com",
+    "phone": "+1 (555) 456-7890",
+    "gradeLevel": "Grade 12",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "Id": 5,
+    "firstName": "Jessica",
+    "lastName": "Davis",
+    "email": "jessica.davis@email.com",
+    "phone": "+1 (555) 567-8901",
+    "gradeLevel": "Grade 11",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "Id": 6,
+    "firstName": "Alex",
+    "lastName": "Garcia",
+    "email": "alex.garcia@email.com",
+    "phone": "+1 (555) 678-9012",
+    "gradeLevel": "Grade 10",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "inactive"
+  },
+  {
+    "Id": 7,
+    "firstName": "Emma",
+    "lastName": "Rodriguez",
+    "email": "emma.rodriguez@email.com",
+    "phone": "+1 (555) 789-0123",
+    "gradeLevel": "Grade 12",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "Id": 8,
+    "firstName": "Ryan",
+    "lastName": "Martinez",
+    "email": "ryan.martinez@email.com",
+    "phone": "+1 (555) 890-1234",
+    "gradeLevel": "Grade 11",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "Id": 9,
+    "firstName": "Olivia",
+    "lastName": "Anderson",
+    "email": "olivia.anderson@email.com",
+    "phone": "+1 (555) 901-2345",
+    "gradeLevel": "Grade 10",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "suspended"
+  },
+  {
+    "Id": 10,
+    "firstName": "Noah",
+    "lastName": "Taylor",
+    "email": "noah.taylor@email.com",
+    "phone": "+1 (555) 012-3456",
+    "gradeLevel": "Grade 12",
+    "enrollmentDate": "2023-09-01T00:00:00.000Z",
+    "status": "active"
+  }
+]
